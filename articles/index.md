@@ -3,6 +3,7 @@
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
 
 Azure 203 지금 테스트 진행 중입니다.
+Azure 400 관련 테스트 진행 중입니다.  20190830
 
 ## 사전 준비 사항
 
